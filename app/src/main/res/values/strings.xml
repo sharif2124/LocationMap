@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Current_Loaction_Map</string>
+    <string name="title_activitymaps">MapsActivity</string>
+</resources>
